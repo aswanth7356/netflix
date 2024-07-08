@@ -1,0 +1,14 @@
+.logo{
+    width: 150px;
+    height: 80px;
+}
+
+.nav{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.navba{
+    background-color: black;
+}
